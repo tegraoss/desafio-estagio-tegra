@@ -2,7 +2,9 @@
 
 Desafio para programa de estágio na Tegra 2020
 
-Leia com atenção todos os pontos do desafio a seguir
+<img src="tegra.png" alt="Logo Tegra" width="250" />
+
+Leia com atenção todos os pontos do desafio a seguir:
 
 1. [O Problema](https://github.com/tegraoss/desafio-estagio-tegra#o-problema)
 2. [Requisitos da Aplicação](https://github.com/tegraoss/desafio-estagio-tegra#requisitos-da-aplica%C3%A7%C3%A3o)
