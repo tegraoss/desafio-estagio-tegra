@@ -4,12 +4,12 @@ Desafio para programa de estágio na Tegra 2020
 
 Leia com atenção todos os pontos do desafio a seguir
 
-1. [O Problema]()
-2. [Requisitos da Aplicação]()
-3. [Lista de Livros]()
-4. [Diferenciais]()
-5. [Entrega]()
-6. [Observações]()
+1. [O Problema](https://github.com/tegraoss/desafio-estagio-tegra#o-problema)
+2. [Requisitos da Aplicação](https://github.com/tegraoss/desafio-estagio-tegra#requisitos-da-aplica%C3%A7%C3%A3o)
+3. [Lista de Livros](https://github.com/tegraoss/desafio-estagio-tegra#lista-de-livros)
+4. [Diferenciais](https://github.com/tegraoss/desafio-estagio-tegra#diferenciais)
+5. [Entrega](https://github.com/tegraoss/desafio-estagio-tegra#entrega)
+6. [Observações](https://github.com/tegraoss/desafio-estagio-tegra#observa%C3%A7%C3%B5es)
 
 ## O Problema
 
@@ -66,7 +66,7 @@ Caso queira acrescentar algumas funcionalidades no desenvolvimento do seu teste,
 A entrega deste desafio é composta por:
 
 - Código desenvolvido para a solução
-- Descrição de instruções para executar o código (utilize um arquivo [README.md]() para isso)
+- Descrição de instruções para executar o código (utilize um arquivo [README.md](https://medium.com/@giu.drawer/criando-um-arquivo-readme-para-o-seu-projeto-afd66ce1af40) para isso)
 - Caso implemente alguma das funcionalidades descritas como diferencial, listar elas nas instruções
 
 Você deve responder o email onde este teste foi enviado para você.
